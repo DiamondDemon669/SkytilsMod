@@ -93,7 +93,7 @@ val shadowMeMod: Configuration by configurations.creating {
 dependencies {
     minecraft("com.mojang:minecraft:1.8.9")
     mappings("de.oceanlabs.mcp:mcp_stable:22-1.8.9")
-    forge("net.minecraftforge:forge:1.8.9-11.15.1.2318-1.8.9")
+    forge("net.minecraftforge:forge:1.8.9-11.15.1.1764-1.8.9")
 
     shadowMe("gg.essential:loader-launchwrapper:1.1.3")
     implementation("gg.essential:essential-1.8.9-forge:11092+gecb85a783") {
